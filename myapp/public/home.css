@@ -1,0 +1,103 @@
+#bg{
+    background-image: url("http://cdn.wallpapersafari.com/27/72/97ksXy.jpg");
+    }
+  .navbar-brand{
+  font-family:Segoe Script;
+  font-size:25px;
+  }
+  .img1{
+    position:relative;
+    text-align:center;
+    height:90px;
+    width:500px;
+  }
+  
+  input[type=search]{
+    position:absolute;
+    -webkit-transition: width 2s;
+    transition:width 2s;
+    width:50px;
+    border-radius:20px;
+    left:250px;
+    padding:13px;
+   }
+  .navbar-brand {
+    color:#cc5490;
+  }
+  .navbar-nav{
+    margin-left:20px;
+  }
+     li{
+      border-right:1px solid #cc5490;
+    }
+  li:last{
+    border-right:none;
+  }
+  
+  input[type=search]:focus{
+    width:200px;
+  }
+  .fontAwesome {
+    font-family: Helvetica, 'FontAwesome', sans-serif;
+  }
+  #para
+  {
+    background-color: #B82479;
+    color: white;
+    font-size: 20px;
+  }
+  .carousel-inner > .item > img,
+    .carousel-inner > .item > a > img {
+        width: 70%;
+        margin: auto;
+    }
+  #ds{
+    background-color:  #fce7fa   ;
+  }
+  .slider{ position:relative;
+    top:-18px; }
+  #ftr{
+    position:relative;
+    background-image:url("http://download.4-designer.com/files/20130108/Japanese-style-color-background-9-HD-picture-41159.jpg");
+  background-repeat:no-repeat;
+    background-size:100% 100%;
+  }
+  
+  #tag{
+  
+    color:#cc5490;
+    text-align: center;
+    font-size:30px;
+    font-family:Brush Script MT;
+  }  
+  
+  
+  
+  /*Tooba CSS start*/
+  #heads{
+    font-family:Times New Roman;
+    font-size:20px;
+    color:#cc5490;
+    
+  }
+  #imgf1,#imgf2{
+    width:100px;
+    height:100px;
+  }
+  #imgf1c,#imgf2c,#imgo1c{
+    font-family:Comic Sans MS;
+    font-size:14px;
+  }
+  #imgo1{
+    width:120px;
+    height:140px;
+  }
+  #imgb1,#imgb2,#imgb3{
+    width:70px;
+    height:60px;
+  }
+  #imgb1c,#imgb2c,#imgb3c{
+    font-family:Comic Sans MS;
+    font-size:14px;
+  }
+  
